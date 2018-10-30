@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/marwan-at-work/gocodebug/sub"
+	"github.com/marwan-at-work/gocodedebug/sub"
 )
 
 func main() {
